@@ -1,0 +1,16 @@
+alerts:
+  - id: "alert_petition_001"
+    title: "📝 Підтримайте важливу петицію!"
+    text: "Шановна громадо! Просимо підписати петицію щодо присвоєння звання Героя нашому земляку. Для цього потрібно лише 2 хвилини вашого часу.\n\nКожен голос має значення!"
+    photo: "https://github.com/denris87/vilnohirsk-events/blob/main/IMG_2626.JPG?raw=true"
+    buttonText: "Підписати петицію"
+    buttonUrl: "https://petition.kmu.gov.ua/123456"
+    active: true
+
+  - id: "alert_lost_person"
+    title: "⚠️ Загубилася дитина"
+    text: "Допоможіть знайти! Хлопчик 10 років, був одягнений у синю куртку. Останній раз бачили біля АТБ."
+    photo: ""
+    buttonText: ""
+    buttonUrl: ""
+    active: false
