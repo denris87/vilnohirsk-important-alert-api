@@ -1,11 +1,19 @@
 alerts:
+  - id: "alert_uz_train_079"
+    title: "🚆 Є шанс отримати зупинку поїзда №079/080!"
+    text: "Вільногірськ, максимальний лайк!\n\nУкрзалізниця офіційно відповіла, що передала наше питання своїм фахівцям для вивчення. Перший крок зроблено!\n\nАле щоб вони прийняли рішення на нашу користь, ми маємо показати масовість. Покажіть їм, як сильно нашому місту потрібен прямий зв'язок зі столицею!\n\nКожен ваш ❤️ — це додатковий аргумент для УЗ. Зробимо це для наших захисників, студентів та всіх жителів міста!"
+    photo: "https://github.com/denris87/vilnohirsk-important-alert-api/blob/main/photo_2026-05-09_15-00-47.jpg?raw=true"
+    buttonText: "👉 Підтримати лайком"
+    buttonUrl: "https://www.threads.com/@vilnohirsk_online/post/DYEKVVNioIl"
+    active: true
+
   - id: "alert_petition_001"
     title: "📝 Підтримайте важливу петицію!"
     text: "Шановна громадо! Просимо підписати петицію щодо присвоєння звання Героя нашому земляку. Для цього потрібно лише 2 хвилини вашого часу.\n\nКожен голос має значення!"
     photo: "https://github.com/denris87/vilnohirsk-events/blob/main/IMG_2626.JPG?raw=true"
     buttonText: "Підписати петицію"
     buttonUrl: "https://petition.kmu.gov.ua/123456"
-    active: true
+    active: false
 
   - id: "alert_lost_person"
     title: "⚠️ Загубилася дитина"
